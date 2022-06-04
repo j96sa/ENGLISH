@@ -5,6 +5,38 @@ body{
     background: #000;
     color:#eee;
 }
-.capitalize{
-    text-transform: capitalize;
+
+.table{
+    width: 95%;
+    margin: auto;
+}
+
+.letter{
+    margin: 10px 0;
+    text-align: center;
+    color: #e50;
+}
+
+
+.ind{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+
+.ind h3{
+    background: #fff;
+    color: #000;
+    text-align: center;
+    margin: 1px;    
+}
+
+.ind.header h3{
+    color: #444;
+}
+
+.ind.ok h3{
+    color: #05e;
+}
+.ind.no h3{
+    color: #a00;
 }
