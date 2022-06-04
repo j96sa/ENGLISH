@@ -1,59 +1,21 @@
 //** VOCABULARIO**//
-throughout - a lo largo (sea tiempo que espacio)
-through - a traves
-though - aunque 
-thought - pensamieto(pasado de pensar*think)
-leap - salto
-faith - fe
-strength - fuerza 
-own - propio
-gospel - evangelio
-felt - sentì
-feel - sentir
-seem - parecer
-against - contra
-below - debajo
-scar - cicatriz
-*prowl - merodear
-although - (a pesar de que, aunque)
-clues - pistas(evidencia de casos policiales)
-bold - atrevido
-despite - a pesar de que 
-bleak - desolado
-astounding - asombroso
-criticism - critica
-praise - elogio
-least - menor
-amount - cantidad 
-crush - (aplastar, persona especial)
-looming - que se avecina
-grounded - (apegado a la tierra, arraigado a algo)
-approching - que se acerca
-gosebumps - piel de gallina
-noir - negra
-fairly - (justamente, acompañada de un adjetivo (bastante))
-quiet - tranquilo
-issues - problemas 
-few - pocas 
-span - lapso
-arrive - llegar
-straight - derecho
-square - (cuadrado, plaza)
-boil - hervir
-chase - perseguir
-thick - (grueso,groso, espesoste)
-stepped - pisado
-step - paso
-carefully - cuidadoso 
-grass - cesped
-dirty - sucio
-lust - lujuria
-shape - forma
-might - pude que
-noisy - ruidosa
-noise - ruido
-amenities - comodidades
-attend - asistir 
+afraid - (me temo, atemorizado)
+meet - (v:conocer; s:reunir,reunion;)
+met - (past:meet, s:reuniò)
+waste - (v:desperdiciar,derrochar,perder; s:desperdicio; adj:desperdicio;)
+wipe - (v:limpiar,secar,remover o eliminar)
+keep - (v:mantener,seguir,continuar)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -63,21 +25,3 @@ i'm own - yo poseo/soy dueña
 i left - me fuì
 i take care of - me encargo de 
 go straight - seguir recto
-
-
-
-    APP 
-*Se organizaran en orden alfabetico/y en orden de prioridad
-
-*cada palabra mostrara su significado/(solo cuando se haga click sobre ella),     
-    -si es un verbo o sustantivo sus significados en cada caso,
-    -tendran un numero de prioridad de uso del 1 - 5,
-
-*se podran añadir palabras y su significado asi como modificarlas desde el frontend
-
-*se registrara la fecha de cuando ha sido insertada la palabra
-
-*se haran dos listas una para las palabras dominadas y otra para las palabras que causan mas dificultad,
-    -la lista de las palabras con dificultad se actualizara automaticamente despues de pasado un tiempo 
-        y la palabra no se encuentre en la lista de palabras dominadas,
-    -las palabras dominadas que se muestren tendran un backgraund verde/azul y las no dominadas uno rojo
