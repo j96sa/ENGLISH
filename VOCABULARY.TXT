@@ -5,7 +5,7 @@ met - (past:meet, s:reuniò)
 waste - (v:desperdiciar,derrochar,perder; s:desperdicio; adj:desperdicio;)
 wipe - (v:limpiar,secar,remover o eliminar)
 keep - (v:mantener,seguir,continuar)
-
+schedule - (v:programar:(reuniones,encuentros); s:tabla,agenda,programa;)
 
 
 
