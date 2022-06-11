@@ -1,0 +1,16 @@
+booking,,record,,adjoined
+attend,,sightseeing,,suitcase
+book,,hanger,,faucet,,tip
+deserve,,dial,,toiletries
+housekeeping,,attendant,,luggage
+waitress,,chambermaid,,hairdrayer
+bathroom amenities,,pillow
+bathrobe,,towel,,toilet paper
+toilet roll,,maid,,hot tub
+pool,,abroad,,wardrobe,,cup
+glass,,sparkling wine,,sink
+terrace,,shuttle service
+concierge,,arrange,,complaint
+bath towels,,hands towels
+face mask
+
