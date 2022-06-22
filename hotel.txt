@@ -12,5 +12,7 @@ glass,,sparkling wine,,sink
 terrace,,shuttle service
 concierge,,arrange,,complaint
 bath towels,,hands towels
-face mask
+face mask,,hall,,step,,go up
+ladder,,stair,,wet,,step
+sidewalk,,iron
 
