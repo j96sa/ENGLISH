@@ -1,7 +1,7 @@
 booking,,record,,adjoined
 attend,,sightseeing,,suitcase
 book,,hanger,,faucet,,tip
-deserve,,dial,,toiletries
+dial,,toiletries,,sidewalk,,iron
 housekeeping,,attendant,,luggage
 waitress,,chambermaid,,hairdrayer
 bathroom amenities,,pillow
@@ -12,7 +12,9 @@ glass,,sparkling wine,,sink
 terrace,,shuttle service
 concierge,,arrange,,complaint
 bath towels,,hands towels
-face mask,,hall,,step,,go up
+face mask,,hall,,go up
 ladder,,stair,,wet,,step
-sidewalk,,iron
-
+baggage,,journey,,sweet,,bitter
+salty,,sour,,lounge,,slippers
+in a hurry,,meantime,,waiter
+breakfast,,lunch,,dinner
