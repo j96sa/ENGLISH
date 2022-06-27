@@ -1,20 +1,21 @@
 booking,,record,,adjoined
 attend,,sightseeing,,suitcase
-book,,hanger,,faucet,,tip
+elevator,,book,,hanger,,faucet,,tip
 dial,,toiletries,,sidewalk,,iron
 housekeeping,,attendant,,luggage
 waitress,,chambermaid,,hairdrayer
-bathroom amenities,,pillow
+bathroom amenities,,feather pillow
 bathrobe,,towel,,toilet paper
 toilet roll,,maid,,hot tub
 pool,,abroad,,wardrobe,,cup
 glass,,sparkling wine,,sink
-terrace,,shuttle service
+terrace,,sauna,,shuttle service
 concierge,,arrange,,complaint
 bath towels,,hands towels
-face mask,,hall,,go up
+lamp,,face mask,,hall,,go up
 ladder,,stair,,wet,,step
 baggage,,journey,,sweet,,bitter
 salty,,sour,,lounge,,slippers
 in a hurry,,meantime,,waiter
-breakfast,,lunch,,dinner
+breakfast,,lunch,,dinner,,keycard
+foam pillow
