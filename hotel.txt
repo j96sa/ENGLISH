@@ -14,8 +14,9 @@ concierge,,arrange,,complaint
 bath towels,,hands towels
 lamp,,face mask,,hall,,go up
 ladder,,stair,,wet,,step
-baggage,,journey,,sweet,,bitter
-salty,,sour,,lounge,,slippers
+baggage,,journey,,sweet,,bin,,bitter
+salty,,toothbrush,,sour,,lounge,,slippers
 in a hurry,,meantime,,waiter
 breakfast,,lunch,,dinner,,keycard
-foam pillow
+foam pillow,,clothes,,clothing,,blinds
+grass,,curtains,,razor
